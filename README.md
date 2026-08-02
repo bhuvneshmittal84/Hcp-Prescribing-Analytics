@@ -11,7 +11,7 @@
 
 \---
 
-**2,000 HCPs** · **8 Quarters of Data** · **4 Specialties × 4 Regions** · **+2.6 % Projected Rx Uplift**
+**2,000 HCPs** · **8 Quarters of Data** · **4 Specialties × 4 Regions** · **+20.6 % Projected Rx Uplift**
 
 </div>
 
