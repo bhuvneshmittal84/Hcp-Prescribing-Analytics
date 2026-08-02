@@ -86,7 +86,7 @@ Raw Panel Data
 ### Page 1 — Executive Summary
 
 <p align="center">
-  <img src="Hcp ss/H\_1.png" alt="Executive Summary" width="900"/>
+  <img src="Hcp%20ss/H_1.png" alt="Executive Summary" width="900"/>
 </p>
 
 The landing page answers: ***"What's the overall opportunity, and is it worth investing in optimised visit allocation?"***
@@ -117,7 +117,7 @@ The landing page answers: ***"What's the overall opportunity, and is it worth in
 ### Page 2 — Segmentation
 
 <p align="center">
-  <img src="Hcp ss/H\_2.png" alt="Segmentation" width="900"/>
+  <img src="Hcp%20ss/H_2.png" alt="Segmentation" width="900"/>
 </p>
 
 This page answers: ***"Who are our HCPs, and how do they cluster?"***
@@ -145,7 +145,7 @@ Using **K-Means clustering**, every HCP is assigned to one of four strategic seg
 ### Page 3 — Predictive Analytics
 
 <p align="center">
-  <img src="Hcp ss/H\_3.png" alt="Predictive Analytics" width="900"/>
+  <img src="Hcp%20ss/H_3.png" alt="Predictive Analytics" width="900"/>
 </p>
 
 This page answers: ***"How accurate are our predictions, and where should we invest next?"***
@@ -172,7 +172,7 @@ This page answers: ***"How accurate are our predictions, and where should we inv
 ### Page 4 — Business Impact \& Executive Dashboard
 
 <p align="center">
-  <img src="Hcp ss/H\_4.png" alt="Business Impact and Executive Dashboard" width="900"/>
+  <img src="Hcp%20ss/H_4.png" alt="Business Impact and Executive Dashboard" width="900"/>
 </p>
 
 This page answers: ***"What's the concrete ROI, and who are the top providers to act on?"***
