@@ -1,0 +1,69 @@
+# ===== Project-specific =====
+files/
+files.zip
+
+# ===== Python =====
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+*.manifest
+*.spec
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# ===== Data / Large files =====
+*.csv
+*.xlsx
+*.xls
+*.parquet
+*.h5
+*.hdf5
+
+
+# ===== Power BI =====
+*.pbix
+*.pbit
+
+# ===== IDE / Editor =====
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.settings/
+
+# ===== OS generated =====
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# ===== Jupyter Notebooks =====
+.ipynb_checkpoints/
+
+# ===== Environment variables =====
+.env
+.env.local
+.env.*.local
+
+# ===== Logs =====
+*.log
+logs/
+
+# ===== Distribution / Packaging =====
+*.tar.gz
+*.zip
+*.rar
+*.7z
