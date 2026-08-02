@@ -95,8 +95,8 @@ The landing page answers: ***"What's the overall opportunity, and is it worth in
 |-|-|-|
 |**Total HCPs**|2,000|Universe of providers in the panel|
 |**Current Quarter Rx**|6K|Baseline prescriptions in Q8|
-|**Projected Next Qtr Rx**|188.02K|Model-predicted Rx under the optimised plan|
-|**Expected Rx Uplift**|+4,753 (2.6 %)|Incremental scripts from reallocation alone|
+|**Projected Next Qtr Rx**|7236|Model-predicted Rx under the optimised plan|
+|**Expected Rx Uplift**|+1,236 (20.6 %)|Incremental scripts from reallocation alone|
 |**Avg Opportunity Score**|34.11 / 100|Mean composite score across all HCPs|
 
 **Charts on this page:**
